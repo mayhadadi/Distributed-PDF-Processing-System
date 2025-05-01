@@ -3,8 +3,8 @@
 **Grade: 100/100**
 
 ## Team Members
-- May Hadadi (315115261)
-- Asaf Hacmon (208393074)
+- May Hadadi (hadadim@post.bgu.ac.il)
+- Asaf Hacmon 
 
 ## Project Overview
 This project implements a distributed system for processing PDF files in the AWS cloud. The system consists of three main components:
